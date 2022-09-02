@@ -1,0 +1,28 @@
+Test average:
+431.27367999999996
+Test:
+429.7644
+431.474
+431.5996
+432.4531999999999
+431.0772
+Train average:
+431.92735999999996
+Train:
+431.0536
+431.53000000000003
+432.4222
+433.53240000000005
+431.0986
+Test Set Same Acc:
+true
+true
+true
+true
+true
+Train Set Same Acc:
+true
+true
+true
+true
+true

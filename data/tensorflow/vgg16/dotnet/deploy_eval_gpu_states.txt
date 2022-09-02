@@ -1,0 +1,40 @@
+Test Eval Average Time:
+19.286713968000004
+Test Eval Time:
+16.603309520000003
+18.080902479999999
+19.217983260000004
+21.14627926
+21.385095320000001
+Test Accuracy0 Same as Original:
+True, 0.84709999999999996
+True, 0.84689999999999999
+True, 0.84470000000000001
+True, 0.8488
+True, 0.85070000000000001
+Test Accuracy Stable:
+True
+True
+True
+True
+True
+Train Eval Average Time:
+95.760278123999996
+Train Eval Time:
+81.960656360000002
+89.462010280000001
+96.211898579999996
+105.46672068000001
+105.70010471999998
+Train Accuracy0 Same as Original:
+True, 1
+True, 1
+True, 1
+True, 1
+True, 1
+Train Accuracy Stable:
+True
+True
+True
+True
+True

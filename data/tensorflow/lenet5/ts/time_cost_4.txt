@@ -1,0 +1,14 @@
+Training Time:
+841.53
+Total Time:
+2328.186
+Eval Time:
+1486.6560000000002
+Testing Loss:
+0.044347647577524185
+Testing Acc:
+0.9883000254631042
+Training Loss:
+0.00038507950375787914
+Training Acc:
+1
