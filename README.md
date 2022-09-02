@@ -31,7 +31,7 @@ data
     └── ...
 ```
 
-each `language` (e.g., vgg16) folder contains data for:
+each `language` (e.g., `py`) folder contains data for:
 
 - Training accuracy in each epoch (files named `training_errors_*`)
 - Test accuracy in each epoch (files named `testing_errors_*`)
@@ -50,7 +50,7 @@ Also, check [./torch_bindings/py/README.md](torch_bindings/py/README.md) for set
 
 For each binding, please refers to the README files for more information.
 
-## TensorFlow
+### TensorFlow
 
 Conda environment for reference: [./tensorflow_bindings/py/cv/environment.yml](tensorflow_bindings/py/cv/environment.yml).
 Also, check [./tensorflow_bindings/py/cv/README.md](tensorflow_bindings/py/cv/README.md) for setting up the environment.
